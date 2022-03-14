@@ -1,3 +1,9 @@
 pandas
 numpy
 matplotlib
+figure
+ipywidgets
+sklearn.linear_model
+LinearRegression
+sklearn.metrics
+mean_squared_error, r2_score

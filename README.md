@@ -1,5 +1,7 @@
 # dh140_finalproject
 
+This repository contains a Jupyter notebook of my analysis, the csv data file I am analyzing, and a requirements.txt file. At the bottom of this page, there is a link to an interactive version of my Jupyter notebook as well as a link to my Blog site.  
+
 ## Project Description
 For my final project, I am exploring the music industry and how it has changed over the years. More specifically, I want to look at how music industry sales have changed in the past 40 years in terms of types of sales (CDs, streaming, etc). In answering this overarching research question, I also want to explore (1) how the rise of new sale formats has led to the demise of others, and (2) which sales formats will be most popular moving forward.
 

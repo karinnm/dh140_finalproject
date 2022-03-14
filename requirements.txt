@@ -1,7 +1,5 @@
 pandas
 numpy
 matplotlib
-from matplotlib.pyplot import figure
 ipywidgets
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error, r2_score
+sklearn.linear_model 
